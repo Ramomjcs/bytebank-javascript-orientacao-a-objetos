@@ -1,2 +1,2 @@
-# bytebank-javascript-orientacao-a-objetos
-Projeto ByteBank - Javascript Orientação a Objetos
+# ByteBank Javascript Orientação a Objetos
+Praticando POO em Javascript
